@@ -5,7 +5,8 @@ document.onmousemove = (event) => {
   const y = (event.clientY * 100) / window.innerHeight + '%';
 
 for (let i = 0; i < 2; i++) {
-  balls[0].style.left = x;
-  balls[0].style.top = y;
-  balls[0].transform = 'translate(-' + x + ',-' + y + ')';
+  balls[i].style.left = x;
+  balls[i].style.top = y;
+  balls[i].transform = 'translate(-' + x + ',-' + y + ')';
+}
 };
