@@ -10,11 +10,11 @@
 <a href="https://stackoverflow.com/users/kengland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kengland" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ksengland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ksengland" height="30" width="40" /></a>
 </p>
-<h2 align="left">👩🏾 About me:</h2>
+<h2 align="left">👩🏾 Get to know me:</h2>
 🚦 Recruiting Status: 🟢 Looking
 <br><br>
 🚧 Currently working on:
-<br><br>
+<br>
 
 💾 Recent projects:<br>
 -  [PacMen Factory Game](https://github.com/ksengland/PacMen-Factory-Game)
