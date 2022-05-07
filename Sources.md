@@ -1,5 +1,3 @@
-Sources
-
 Sources used to create this website
 ===================================
 
